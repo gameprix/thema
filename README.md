@@ -8,26 +8,26 @@
 
 |Sl.No| Template Name  | Live Example |
 |-----|----------------|--------------|
-|  01  | 3-col-portfolio	                                                  |[live example](https://learning-zone.github.io/website-templates/3-col-portfolio/)|	                                                  
-|  02  | above-educational-bootstrap-responsive-template	                  |[live example](https://learning-zone.github.io/website-templates/above-educational-bootstrap-responsive-template/)|	                  
-|  03  | add-life-health-fitness-free-bootstrap-html5-template	          |[live example](https://learning-zone.github.io/website-templates/add-life-health-fitness-free-bootstrap-html5-template/)|	          
-|  04  | aerosky-real-estate-html-responsive-website-template		      |[live example](https://learning-zone.github.io/website-templates/aerosky-real-estate-html-responsive-website-template/)|	      
-|  05  | agile-agency-free-bootstrap-web-template					      |[live example](https://learning-zone.github.io/website-templates/agile-agency-free-bootstrap-web-template/)|					      
-|  06  | amaze-photography-bootstrap-html5-template					      |[live example](https://learning-zone.github.io/website-templates/amaze-photography-bootstrap-html5-template/)|					      
-|  07  | aroma-beauty-and-spa-responsive-bootstrap-template			      |[live example](https://learning-zone.github.io/website-templates/aroma-beauty-and-spa-responsive-bootstrap-template/)|			      
-|  08  | avenger-multi-purpose-responsive-html5-bootstrap-template	      |[live example](https://learning-zone.github.io/website-templates/avenger-multi-purpose-responsive-html5-bootstrap-template/)|	      
-|  09  | b-school-free-education-html5-website-template				      |[live example](https://learning-zone.github.io/website-templates/b-school-free-education-html5-website-template/)|				      
-|  10  | basic-free-html5-template-for-multi-purpose|[live example](https://learning-zone.github.io/website-templates/basic-free-html5-template-for-multi-purpose/)|					      
-|  11   | beauty-salon-bootstrap-html5-template						      |[live example](https://learning-zone.github.io/website-templates/beauty-salon-bootstrap-html5-template/)|						      
-|  12   | bestro-restaurant-bootstrap-html5-template					      |[live example](https://learning-zone.github.io/website-templates/bestro-restaurant-bootstrap-html5-template/)|					      
-|  13   | businessline-corporate-portfolio-bootstrap-responsive-web-template|[live example](https://learning-zone.github.io/website-templates/businessline-corporate-portfolio-bootstrap-responsive-web-template/)|		
-|  14   | cloud-hosting-free-bootstrap-responsive-website-template	      |[live example](https://learning-zone.github.io/website-templates/cloud-hosting-free-bootstrap-responsive-website-template/)|	      
-|  15   | coffee-shop-free-html5-template								      |[live example](https://learning-zone.github.io/website-templates/coffee-shop-free-html5-template/)|								      
-|  16   | creative-bee-corporate-free-html5-web-template				      |[live example](https://learning-zone.github.io/website-templates/creative-bee-corporate-free-html5-web-template/)|				      
-|  17   | creative-free-responsive-html5-business-template			      |[live example](https://learning-zone.github.io/website-templates/creative-free-responsive-html5-business-template/)|			      
-|  18   | delight-multi-purpose-free-html5-website-template			      |[live example](https://learning-zone.github.io/website-templates/delight-multi-purpose-free-html5-website-template/)|			      
-|  19   | delite-music-html5-bootstrap-responsive-web-template		      |[live example](https://learning-zone.github.io/website-templates/delite-music-html5-bootstrap-responsive-web-template/)|		      
-|  20   | eat-restaurant-bootstrap-html5-template						      |[live example](https://learning-zone.github.io/website-templates/eat-restaurant-bootstrap-html5-template/)|						      
+|  01  | 3-col-portfolio	                                                  |[live example](https://gameprix.github.io/thema/3-col-portfolio/)|	                                                  
+|  02  | above-educational-bootstrap-responsive-template	                  |[live example](https://gameprix.github.io/thema/above-educational-bootstrap-responsive-template/)|	                  
+|  03  | add-life-health-fitness-free-bootstrap-html5-template	          |[live example](https://gameprix.github.io/thema/add-life-health-fitness-free-bootstrap-html5-template/)|	          
+|  04  | aerosky-real-estate-html-responsive-website-template		      |[live example](https://gameprix.github.io/thema/aerosky-real-estate-html-responsive-website-template/)|	      
+|  05  | agile-agency-free-bootstrap-web-template					      |[live example](https://gameprix.github.io/thema/agile-agency-free-bootstrap-web-template/)|					      
+|  06  | amaze-photography-bootstrap-html5-template					      |[live example](https://gameprix.github.io/thema/amaze-photography-bootstrap-html5-template/)|					      
+|  07  | aroma-beauty-and-spa-responsive-bootstrap-template			      |[live example](https://gameprix.github.io/thema/aroma-beauty-and-spa-responsive-bootstrap-template/)|			      
+|  08  | avenger-multi-purpose-responsive-html5-bootstrap-template	      |[live example](https://gameprix.github.io/thema/avenger-multi-purpose-responsive-html5-bootstrap-template/)|	      
+|  09  | b-school-free-education-html5-website-template				      |[live example](https://gameprix.github.io/thema/b-school-free-education-html5-website-template/)|				      
+|  10  | basic-free-html5-template-for-multi-purpose|[live example](https://gameprix.github.io/thema/basic-free-html5-template-for-multi-purpose/)|					      
+|  11   | beauty-salon-bootstrap-html5-template						      |[live example](https://gameprix.github.io/thema/beauty-salon-bootstrap-html5-template/)|						      
+|  12   | bestro-restaurant-bootstrap-html5-template					      |[live example](https://gameprix.github.io/thema/bestro-restaurant-bootstrap-html5-template/)|					      
+|  13   | businessline-corporate-portfolio-bootstrap-responsive-web-template|[live example](https://gameprix.github.io/thema/businessline-corporate-portfolio-bootstrap-responsive-web-template/)|		
+|  14   | cloud-hosting-free-bootstrap-responsive-website-template	      |[live example](https://gameprix.github.io/thema/cloud-hosting-free-bootstrap-responsive-website-template/)|	      
+|  15   | coffee-shop-free-html5-template								      |[live example](https://gameprix.github.io/thema/coffee-shop-free-html5-template/)|								      
+|  16   | creative-bee-corporate-free-html5-web-template				      |[live example](https://gameprix.github.io/thema/creative-bee-corporate-free-html5-web-template/)|				      
+|  17   | creative-free-responsive-html5-business-template			      |[live example](https://gameprix.github.io/thema/creative-free-responsive-html5-business-template/)|			      
+|  18   | delight-multi-purpose-free-html5-website-template			      |[live example](https://gameprix.github.io/thema/delight-multi-purpose-free-html5-website-template/)|			      
+|  19   | delite-music-html5-bootstrap-responsive-web-template		      |[live example](https://gameprix.github.io/thema/delite-music-html5-bootstrap-responsive-web-template/)|		      
+|  20   | eat-restaurant-bootstrap-html5-template						      |[live example](https://gameprix.github.io/thema/eat-restaurant-bootstrap-html5-template/)|						      
 |  21   | elegant-free-multi-purpose-bootstrap-responsive-template	      |[live example](https://learning-zone.github.io/website-templates/elegant-free-multi-purpose-bootstrap-responsive-template/)|	      
 |  22   | enlive-corporate-free-html5-bootstrap-web-template			      |[live example](https://learning-zone.github.io/website-templates/enlive-corporate-free-html5-bootstrap-web-template/)|			      
 |  23   | everest-corporate-business-bootstrap-template				      |[live example](https://learning-zone.github.io/website-templates/everest-corporate-business-bootstrap-template/)|				      
